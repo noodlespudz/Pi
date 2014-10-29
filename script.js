@@ -1,3 +1,4 @@
+// Split Charachters, Apply Class to each Character
 
 var styleChars = function () {
 	var myText = document.getElementById("myText");
@@ -21,7 +22,7 @@ var styleChars = function () {
 
 window.onload = styleChars;
 
-// CSS SWITCH SCRIPT STARTS HERE. I have no idea how this works.
+// CSS SWITCH SCRIPT STARTS HERE.
 
 var style_cookie_name = "style" ;
 var style_cookie_duration = 30 ;
